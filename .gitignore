@@ -1,0 +1,13 @@
+# Genel
+node_modules/
+.env
+.DS_Store
+*.log
+
+# React
+ysk/frontend/node_modules/
+ysk/frontend/build/
+
+# Excel dosyaları (isteğe bağlı)
+ysk/yerler/*.xlsx
+
